@@ -4,7 +4,7 @@ import { defuFn } from 'defu'
 
 const inlineConfig = {
   "nuxt": {
-    "buildId": "b3d7cb37-c556-4238-a353-d6cc56d6ffc8"
+    "buildId": "4aacfa2e-b23f-40f3-8707-43f25fb83c8c"
   }
 }
 

@@ -1,4 +1,4 @@
-const client_manifest = {
+export default {
   "assets/image/home/banner1.jpg": {
     "resourceType": "image",
     "prefetch": true,
@@ -1160,7 +1160,4 @@ const client_manifest = {
       "node_modules/nuxt/dist/app/entry.js"
     ]
   }
-};
-
-export { client_manifest as default };
-//# sourceMappingURL=client.manifest.mjs.map
+}
